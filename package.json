@@ -1,0 +1,21 @@
+{
+  "name": "github-ci-heroku-cd-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiorRabinovich/github-ci-heroku-cd-example.git"
+  },
+  "keywords": [],
+  "author": "Lior Rabinovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiorRabinovich/github-ci-heroku-cd-example/issues"
+  },
+  "homepage": "https://github.com/LiorRabinovich/github-ci-heroku-cd-example#readme"
+}
